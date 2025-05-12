@@ -1,0 +1,4 @@
+* Personal ZMK Configuration
+This is my personal ZMK configuration. It includes custom keymaps, layers, and other settings to enhance the keyboard's functionality and usability.
+
+It is mostly inspired by [[https://github.com/manna-harbour/miryoku][miryoku's]] keyboard layout, but it is not a direct copy. It is a work in progress and will be updated as I learn more about ZMK, my personal preferences, and the keyboard.
